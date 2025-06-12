@@ -1,0 +1,216 @@
+@media (min-width:576px) and (max-width:767.98px) {
+    .menu_bg button {
+        border: 2px solid #fff;
+
+    }
+    .menu_bg i {
+        color: #fff;
+        font-size: 24px;
+    }
+    .navbar-toggler:focus {
+      
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .menu_bg ul{
+        text-align: center;
+    }
+    .menu_bg ul li{
+        padding: 8px 0px;
+    }
+    /* banner part css start */
+    #banner {
+        
+        padding: 100px 0;
+    }
+    .ban_text h1 {
+       
+        font-size: 40px;
+        line-height: 50px;
+        
+    }
+    .ban_text p {
+        
+        font-size: 14px;
+        line-height: 24px;
+        
+    }
+    .ban_text .ban_btn .btn_one {
+        line-height: 64px;
+        padding: 0px;
+    }
+        
+    .ban_text .ban_btn .btn_two {
+        line-height: 64px;
+        padding: 0px;
+        margin-right: 20px;
+    }
+    .ban_img{
+        margin-top: 30px;
+    }
+   /* banner part css end */
+
+/* work part start */
+#work {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #F4F6FC;
+}
+.work_left p{
+    padding-top: 0px;
+}
+/* work part end */
+
+/* project part start */
+    #project {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .overlay{
+        width: 70%;
+    }
+    .pro_left .overlay h2{
+        padding-top: 34px;
+        padding-bottom: 0px;
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: 600px;
+    }   
+    .pro_left::after{
+        width: 80%;
+    }
+    .pro_right{
+        display: none;
+    }
+    .ami{
+        display: block;
+    }
+    .overlay_one p {
+        padding-top: 20px;
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 599;
+    }
+    .pro_left .w-100 {
+        width: 100% !important;
+        height: auto;
+    }
+    .pr_inner .w-100 {
+        width: 100% !important;
+        height: auto;
+    }
+
+    .overlay_one a {
+        color: #000;
+        padding-left: 5px;
+    }
+    .overlay_one a {
+        padding-top: 0px;
+        
+    }
+    /* project part end */
+
+    /* about part start */
+   
+    #about_us {
+        
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    .about_left h3 {
+      
+        font-size: 38px;
+        line-height: 34px;
+        font-weight: 600;
+        
+    }
+    .about_left p {
+        padding-top: 10px;
+        padding-bottom: 8px;
+        font-size: 16px;
+        line-height: 28px;
+        font-weight: 400;
+       
+    }
+    .about_right h5 {
+        
+        
+        font-size: 24px;
+        line-height: 40px;
+        font-weight: 499;
+        
+    }
+       
+
+/* about part end */ 
+
+/*  feature part start*/
+
+/*  feature part end */
+/* building part start */
+.overlay_inq h5 {
+	padding-top: 100px;
+	padding-left: 96px;
+	padding-right: 96px;
+	font-size: 36px;
+	line-height: 28px;
+	font-weight: 500;
+    padding-bottom: 20px;
+}
+.overlay_inq p {
+	padding-top: 10px;
+	padding-left: 96px;
+	padding-right: 96px;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 400;
+}	
+.one_input {
+    margin-bottom: 5px;
+	height: 45px;
+	width: 350px;
+	border: 2px solid rgba(255, 255, 255, 0.067);
+	background-color: transparent;
+	padding-left: 20px;
+}
+.send_btn button {
+	height: 47px;
+	width: 351px;
+}
+a {
+	color: #000;
+	padding-left: 59px;
+}	
+	
+	
+.btn_btm button {
+	padding-left: 40px;
+	padding-right: 82px;
+	height: 47px;
+	
+}	
+	
+/* building part end */
+
+/* footer part start */
+.footer_right h2 {
+	padding-top: 40px;
+	font-size: 35px;
+	line-height: 47px;
+}
+ul {
+	list-style: none;
+	margin: 10px 0px;
+	padding: 0;
+}
+.footr_left .logo {
+	padding-top: 35px;
+	font-size: 48px;
+}
+.footr_left .logo img{
+    height: 35px;
+}	
+	
+	
+	
+/* footer part end */
+}

@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+img{
+    vertical-align: middle;
+}
+.menu_bg{
+    
+    background-color: #1C1E53;
+    padding: 30px 0;
+}
+.menu_bg ul li a{
+    color: #ffff !important;
+    font-family: "Poppins", serif;
+    padding: 0px 20px !important;
+}
+
+.menu_bg ul li:last-child a{
+    border: 2px solid #fff;
+    padding: 10px 20px !important;
+    border-radius: 30px;
+    
+}
+
+/* banner part start */
+#banner{
+    background-color: #1C1E53;
+    padding: 150px 0;
+
+}
+
+.ban_text h1{
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 54px;
+    line-height: 74px;
+    font-weight: 600;
+    padding-top: 20px;
+
+
+}
+
+.ban_text p{
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    padding-bottom: 32px;    
+
+}
+
+.ban_text .ban_btn .btn_one{
+    
+    display: inline-block;
+    height: 64px;
+    width: 230px;
+    background-color: #FCD980;
+    border-radius: 41px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
+
+.ban_text .ban_btn .icon{
+   
+    display: inline-block;
+}
+.ban_text .ban_btn .btn_one a{
+    color: #1B1C2B;
+    margin: 32px;    
+    
+    
+}
+/* banner part end */
+/* logo part start */
+#logo{
+    padding-bottom: 96px;
+}
+/* logo part end */
+/* benefis part start */
+#benefits{
+}
+.bnft_items{
+    padding-top: 48px;
+    
+}
+/* benefits start */
+#benefits{
+
+}
+.bnft_hdng h2{
+   
+    
+    color: #282938 !important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;
+    text-align: center;
+}
+.bnft_items{
+    background-color: #F4F6FC;
+}
+
+.bnft_items img{
+    padding-top: 58px;
+    padding-bottom: 22px;
+    padding-left: 48px;
+}
+.bnft_items h6{
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+    padding-left: 48px;
+
+    
+    
+    
+}
+.bnft_items p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    padding-left: 48.35px;
+    padding-bottom: 48px;
+    padding-right: 32.58px;
+    
+    
+}
+
+
+
+    
+
+
+
+
+/* benefits end *
+/* benefits part end */
+
+/* best-class part start */
+#best_class{
+    margin-bottom: 128px;
+
+}
+.best_class_left{
+    padding-top: 232px;
+}
+
+.best_class_left h3{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: #232536 !important;
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    
+    
+}
+
+.best_class_right{
+    padding-top: 128px;
+}
+/* best-class part end */
+/* free_revision part start */
+#free_revision{
+
+}
+.free_revision_right{
+    padding-top: 197px;
+    padding-bottom: 197px;
+}
+
+.free_revision_left{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+/* free_revision part end */
+
+/* support part start */
+#support{
+
+}
+.support_left{
+    padding-top: 197px;
+    padding-bottom: 197px;
+}
+.support_right{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+/* support part end */
+
+/* quick-delivery part start */
+#quick-delivery{
+
+}
+.quick_delivery_left{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.quick_delivery_right{
+    padding-top: 199px;
+    padding-bottom: 199px;
+}
+/* quick-delivery part end */
+
+/* faq part start */
+#faq{
+    margin-top: 128px;
+    margin-bottom: 64px;
+}
+#faq{
+    padding-top: 128px;
+    padding-bottom: 128px;
+
+}
+.accordion-button:focus{
+    z-index: 3;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem transparent !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: transparent !important;
+}
+
+/* faq end */
+/* faq part end */
+
+/* footer part start */
+#footer{
+    background-color: #1C1E53;
+    margin-top: 128px;
+}
+
+.footr_left .logo{
+    padding-top: 96px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;
+}
+.footr_left p{
+    padding-top: 10px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.footer_right h2{
+    padding-top: 96px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;  
+
+}
+
+.footer_right p{
+    padding-top: 6px;
+    color: #F4F6FC !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;  
+
+}
+.footer_right .footer_item ul li {
+    display: inline-flex;
+    padding-left: 0px;
+    padding-right: 10px;
+    
+}
+.cont_info {
+    padding-top: 20px;
+    padding-left: 30px;
+    width: 100%;
+    background-color: #FCD980;
+}
+.cont_info{
+    display: inline-flex
+}
+.cont_info .call{
+    padding-left: 40px;
+}
+#footer_btm{
+
+}
+.menu_btm{
+    background-color: #FFFFFF;
+    padding: 30px 0;
+}
+
+
+.menu_btm ul li a{
+    color: #282938 !important;
+    font-family: "Poppins", serif;
+    padding: 0px 20px !important;
+}
+
+/* footer part end */
+

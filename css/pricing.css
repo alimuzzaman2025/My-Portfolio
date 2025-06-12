@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+img{
+    vertical-align: middle;
+}
+.menu_bg{
+    
+    background-color: #1C1E53;
+    padding: 30px 0;
+}
+.menu_bg ul li a{
+    color: #ffff !important;
+    font-family: "Poppins", serif;
+    padding: 0px 20px !important;
+}
+
+.menu_bg ul li:last-child a{
+    border: 2px solid #fff;
+    padding: 10px 20px !important;
+    border-radius: 30px;
+    
+}
+/* pricing part start */
+#pricing{
+   
+    
+}
+.pricing_head h2{
+    padding-top: 150px;
+    color:#282938!important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;
+      
+}
+
+.pricing_head_text p{ 
+    
+    color: #282938 !important;
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 64px;
+    padding-top: 16px;
+}
+.card_pricing h3{
+    padding-top: 64px;
+    color:#282938!important;
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    padding-left: 48px;  
+    }
+.card_pricing{    
+    display: inline-flex
+}
+
+.text_head{
+    padding-top: 80px;
+    padding-left: 10px;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #2405F2;
+    text-align: center;
+}
+
+.card-price .card_head h6{
+    color: #282938;
+    padding-top: 20pxpx;
+    padding-left: 48px;
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+}
+.card_text p{
+    color: #282938 !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 500;
+    padding-left: 48px;
+    padding-top: 8px;
+}
+.card-price ul{
+    padding-top: 70px;
+    padding-left: 48px;
+    padding-bottom: 20px;
+
+}
+
+.card-price ul{
+
+}
+.card-price  ul li img{
+    
+    
+    padding-right: 10px;
+}
+  
+.price_card_1{
+    background-color: #F4F6FC;
+    width: 406px;
+    height: 745px;
+    border-radius: 12px;
+}
+
+.price_card_1 .price-btn a{
+    color: #282938;
+    padding: 15px 27px;
+    background-color: #FCD980;
+    border-radius: 41px;
+} 
+    
+    
+   
+
+
+
+.price_card_1 .price-btn{
+    margin-left: 68px;
+    display: inline-block;
+    padding: 50px 45px;
+}
+
+/* pricing part end */
+
+/* faq part start */
+#faq{
+    margin-top: 128px;
+    margin-bottom: 64px;
+}
+#faq{
+    padding-top: 128px;
+    padding-bottom: 128px;
+
+}
+.accordion-button:focus{
+    z-index: 3;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem transparent !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: transparent !important;
+}
+
+/* faq end */
+/* faq part end */
+
+/* footer part start */
+#footer{
+    background-color: #1C1E53;
+    margin-top: 128px;
+}
+
+.footr_left .logo{
+    padding-top: 96px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;
+}
+.footr_left p{
+    padding-top: 10px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.footer_right h2{
+    padding-top: 96px;
+    color: #FFFFFF !important;
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 600;  
+
+}
+
+.footer_right p{
+    padding-top: 6px;
+    color: #F4F6FC !important;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;  
+
+}
+.footer_right .footer_item ul li {
+    display: inline-flex;
+    padding-left: 0px;
+    padding-right: 10px;
+    
+}
+.cont_info {
+    padding-top: 20px;
+    padding-left: 30px;
+    width: 100%;
+    background-color: #FCD980;
+}
+.cont_info{
+    display: inline-flex
+}
+.cont_info .call{
+    padding-left: 40px;
+}
+#footer_btm{
+
+}
+.menu_btm{
+    background-color: #FFFFFF;
+    padding: 30px 0;
+}
+
+
+.menu_btm ul li a{
+    color: #282938 !important;
+    font-family: "Poppins", serif;
+    padding: 0px 20px !important;
+}
+
+
+
+
+/* footer end */
